@@ -13,7 +13,7 @@ Category.init(
       primaryKey: true,
       autoIncrement: true
     },
-    //catergory_name has a stron datatype &false allowNull
+    //catergory_name has a strong datatype &false allowNull
     catergory_name: {
       type: DataTypes.STRING,
       allowNull: false,
