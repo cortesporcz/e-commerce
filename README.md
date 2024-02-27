@@ -9,9 +9,9 @@ This application is powered by Node.js (v16.19.1), Express.js, JavaScript, MySQL
 ## Installation
 Open in VS Code. If you do not have VS code you must install it.
 
-Using the terminal, install node.js v16. If you have homebrew, the command should look like the following (brew install node@16), however this may vary and the documentation should be consulted.
+Using the terminal, install node.js. Should already be installed. 
 
-Once node.js v16 is installed, in the terminal, utilize the command npm init -y to initialize and create a package.json where project files will be stored.
+Once node.js is installed, in the terminal, utilize the command npm init -y to initialize and create a package.json where project files will be stored.
 
 Next, use the terminal to run the command npm i to install the dependencies associated with this application (developers may need to install dependencies directly from the command line).
 
