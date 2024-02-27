@@ -1,5 +1,5 @@
 const express = require('express');
-const routes = require('./Develop/routes');
+const routes = require('./routes');
 const { Sequelize } = require('sequelize');
 require('dotenv').config(); // Load environment variables from .env file
 
