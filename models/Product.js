@@ -39,7 +39,7 @@ Product.init(
       type: DataTypes.INTEGER,
       // Quick patch. Allows deletion of category. 
       allowNull: true, // If allowNull not set to true, you cant delete a category.
-      references: { // fk join category model on id
+      references: { 
         model: 'category',
         key: 'id'
       }
