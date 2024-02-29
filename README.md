@@ -6,6 +6,13 @@ This application is a backend application servicing front end routes and using M
 ## Technologies Used
 This application is powered by Node.js (v16.19.1), Express.js, JavaScript, MySQL, and Sequelize (ORM). It utilizes the node package manager (npm) dependencies sequelize, mysql2, express, and dotenv.. Also, the Insomnia application was utilized to test the functionality of routes within the program.
 
+## 
+Part 1 and 2 of e-commerce challenge criteria:
+https://drive.google.com/file/d/1-9yquSAYPwz_zdONeJeOyD7T-M0m68Bm/view
+
+Part 3 of e-commerce criteria: 
+
+
 ## Installation
 Open in VS Code. If you do not have VS code you must install it.
 
@@ -23,8 +30,6 @@ Command for express will be npm i express@4.17.1
 Command for dotenv will be npm i dotenv
 Command for nodemon will be npm i nodemon
 Next, you will need to make sure you have an added .env file within the root directory of your repository, within which you will pass your environmental variables specifying the database name, your MySQL username, and your MySQL password. This will need to be completed before running the application, and will allow the connection.js file to utilize your environmental variables keeping your sensitive information protected.
-
-If you do not have a MySQL account, you will need to create one (see https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/).
 
 Once all dependencies are installed, you will need to create the database. To do this you will need to navigate to the directory db directory containing the schema.sql file. Once there, you will need to open up a MySQL shell using the command mysql -u root -p, where you will then be prompted to enter you password. Once your password is entered you will be in the MySQL shell.
 

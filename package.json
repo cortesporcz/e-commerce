@@ -14,7 +14,7 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "Cortes-Porcz",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.0"
