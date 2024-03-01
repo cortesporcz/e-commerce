@@ -45,4 +45,10 @@ From there, you can utilize applications such as Insomnia to test the functional
 There is currently no testing written for this application.
 
 ## Credits
-https://www.codementor.io/@parthibakumarmurugesan/what-is-env-how-to-set-up-and-run-a-env-file-in-node-1pnyxw9yxj
+https://www.codementor.io/@parthibakumarmurugesan/
+
+what-is-env-how-to-set-up-and-run-a-env-file-in-node-1pnyxw9yxj
+
+https://www.youtube.com/watch?v=CG3G5lpxE0Y
+
+Josh and Gabe from class, Juan Delgado (tutor) tofor help with fixing lots of errors in my code)
