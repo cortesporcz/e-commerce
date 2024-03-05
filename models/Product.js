@@ -38,7 +38,7 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       // Quick patch. Allows deletion of category. 
-      allowNull: true, // If allowNull not set to true, you cant delete a category.
+      //allowNull: true, // If allowNull not set to true, you cant delete a category.
       references: { 
         model: 'category',
         key: 'id'
