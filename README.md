@@ -6,11 +6,10 @@ This application is a backend application servicing front end routes and using M
 ## Technologies Used
 This application is powered by Node.js (v16.19.1), Express.js, JavaScript, MySQL, and Sequelize (ORM). It utilizes the node package manager (npm) dependencies sequelize, mysql2, express, and dotenv.. Also, the Insomnia application was utilized to test the functionality of routes within the program.
 
-## 
-Part 1 and 2 of e-commerce challenge criteria:
-https://drive.google.com/file/d/1-9yquSAYPwz_zdONeJeOyD7T-M0m68Bm/view
+## Mock Up
+https://drive.google.com/file/d/1sUBXzFbABxHSrTwpaLJ70gjmaw2dvpKO/view
 
-Part 3 of e-commerce criteria: 
+https://github.com/cortesporcz/amc_MVCTechBlog
 
 
 ## Installation
@@ -51,4 +50,4 @@ what-is-env-how-to-set-up-and-run-a-env-file-in-node-1pnyxw9yxj
 
 https://www.youtube.com/watch?v=CG3G5lpxE0Y
 
-Josh and Gabe from class, Juan Delgado (tutor) tofor help with fixing lots of errors in my code)
+Josh and Gabe from class, Juan Delgado (tutor) tofor help with fixing lots of errors in my code
