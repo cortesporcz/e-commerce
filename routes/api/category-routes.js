@@ -9,7 +9,7 @@ router.get('/', async (req, res) => {
   try { //The try block is used to wrap the code that might throw an error. It allows you to handle errors gracefully without crashing the application.
     const categoryData = await Category.findAll({ //is an option passed to findAll() indicating that when fetching categories, it should also include associated products
     // include Products
-    include: [{model: Product}],
+    //include: [{model: Product}],
   });
 
   res.status(200).json(categoryData);
