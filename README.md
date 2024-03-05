@@ -9,7 +9,7 @@ This application is powered by Node.js (v16.19.1), Express.js, JavaScript, MySQL
 ## Mock Up
 https://drive.google.com/file/d/1sUBXzFbABxHSrTwpaLJ70gjmaw2dvpKO/view
 
-https://github.com/cortesporcz/amc_MVCTechBlog
+https://github.com/cortesporcz/e-commerce
 
 
 ## Installation
