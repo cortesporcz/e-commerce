@@ -10,7 +10,6 @@ Product.belongsTo(Category, {
   onDelete: 'CASCADE',
 });
 
-//look at the 'has many' activity
 //hasMany in this context helps establish and define the one-to-many relationship between Category and Product models, along with the appropriate foreign key constraint and cascading deletion behavior.
 Category.hasMany(Product, {
   foreignKey: 'category_id',
